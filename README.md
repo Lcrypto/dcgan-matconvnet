@@ -1,3 +1,4 @@
+forked from sunghbae/dcgan-matconvnet
 # DCGAN implementation on MatConvNet 
 Deep Convolutional Generative Adversarial Network (DCGAN) [1] implementation on MatConvNet 
 
